@@ -1,0 +1,1 @@
+pytest -v  -n=3 --html=HTMLReport/myreport_firefox.html  --alluredir="AllureReport" --browser firefox --reruns 3 --reruns-delay 2 

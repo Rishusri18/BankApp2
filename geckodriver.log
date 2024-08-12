@@ -108,3 +108,270 @@ console.warn: services.settings: main/search-config-overrides sync interrupted b
 console.warn: services.settings: main/search-config-overrides-v2 sync interrupted by shutdown
 console.warn: services.settings: main/search-config sync interrupted by shutdown
 console.error: (new Error("IndexedDB: main/devtools-news getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1723452804394	geckodriver	INFO	Listening on 127.0.0.1:54007
+1723452808455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54008" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofilefOVS6K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1723452836652	Marionette	INFO	Marionette enabled
+1723452849381	Marionette	INFO	Listening on port 54017
+Read port: 54017
+Read port: 54017
+WebDriver BiDi listening on ws://127.0.0.1:54008
+Read port: 54017
+Read port: 54017
+Read port: 54017
+Read port: 54017
+Read port: 54017
+Read port: 54017
+Read port: 54017
+Read port: 54017
+Read port: 54017
+Read port: 54017
+Read port: 54017
+Read port: 54017
+Read port: 54017
+Read port: 54017
+Read port: 54017
+Read port: 54017
+[GFX1-]: Killing GPU process due to IPC reply timeout
+1723452953978	geckodriver	INFO	Listening on 127.0.0.1:54074
+1723452956557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofileK6JXJ9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1723452965995	Marionette	INFO	Marionette enabled
+1723452970566	Marionette	INFO	Listening on port 54082
+WebDriver BiDi listening on ws://127.0.0.1:54075
+Read port: 54082
+Read port: 54082
+Read port: 54082
+Read port: 54082
+1723452980815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[Parent 3736, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:350
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+1723453102864	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1723453121385	Marionette	INFO	Stopped listening on port 54082
+Dynamically enable window occlusion 1
+1723453129326	geckodriver	INFO	Listening on 127.0.0.1:54147
+1723453131912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54148" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofilesCPRsI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1723453137840	Marionette	INFO	Marionette enabled
+1723453216532	geckodriver	INFO	Listening on 127.0.0.1:54191
+1723453220030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofilevcvzYs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1723453222709	Marionette	INFO	Marionette enabled
+1723453248403	Marionette	INFO	Listening on port 54223
+Read port: 54220
+Read port: 54220
+Read port: 54220
+Read port: 54220
+Read port: 54220
+WebDriver BiDi listening on ws://127.0.0.1:54192
+Read port: 54220
+Read port: 54220
+Read port: 54220
+Read port: 54220
+Read port: 54220
+Read port: 54220
+Read port: 54220
+Read port: 54220
+Read port: 54220
+Read port: 54220
+Read port: 54222
+Read port: 54220
+Read port: 54222
+Read port: 54220
+1723453275864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[Parent 5496, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:350
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown[[GFX1-]: Killing GPU process ue to IPC reply timeout
+[GFX1-]: CompositorBr[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+idgeChild receives IPC close with reason=AbnormalShutdown
+[[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: Composi1723453439967	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+17console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/" ({})
+console.error: "buildList failed: " ({})
+1723453672767	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/ma1723453672769	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marconsole.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/login.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/" ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bankapp.credence.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bankapp.credence.in."
+1723453739526	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/search-user?username=demo" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/userManagement.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/dashboard.html" ({})
+console.warn: WindowDynamically enable window occlusion 1
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/Se1723453884494	Marionette	INFO	Stopped listening on port 54220
+Dynamically enable window occlusion 1
+re/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":133,"columnNumber":11,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","souWARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,1723453871292	Marionette	INFO	Stopped listening on port 54223
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  security-state/intermediates Signature failed  Error: Shutdown, aborting read-only worker requests.
+console.error: services.settings: 
+  Message: Error: Shutdown, aborting read-only worker requests.
+  Stack:
+    _abortCancelableRequests@resource://services-settings/RemoteSettingsWorker.sys.mjs:131:19
+@resource://services-settings/RemoteSettingsWorker.sys.mjs:207:28
+trigger@resource://gre/modules/AsyncShutdown.sys.mjs:754:23
+_wait@resource://gre/modules/AsyncShutdown.sys.mjs:914:15
+wait@resource://gre/modules/AsyncShutdown.sys.mjs:895:34
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:554:10
+
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.error: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 131))
+errupted by shutdown
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/search-user?username=Admin420" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/userManagement.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/dashboard.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/login.html" (new TypeError("this._builder is undefined", "resource:///modules/WindowsJumpLists.sys.mjs", 250))
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/" (new TypeError("this._builder is undefined", "resource:///modules/WindowsJumpLists.sys.mjs", 250))
+console.error: (new AbortError("IndexedDB: main/translations-wasm getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 450))
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 472: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+ervices-common/kinto-http-client.sys.mjs:634:33\nexecute@resource://services-common/kinto-http-client.sys.mjs:2643:36\ngetData@resource://services-common/kinto-http-client.sys.mjs:1119:40\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54\n","nativeSavedFrame":{}},"formattedStack":"timedFetch/<@resource://services-common/kinto-http-client.sys.mjs:569:12\ntimedFetch@resource://services-common/kinto-http-client.sys.mjs:544:12\nrequest@resource://services-common/kinto-http-client.sys.mjs:634:33\nexecute@resource://services-common/kinto-http-client.sys.mjs:2643:36\ngetData@resource://services-common/kinto-http-client.sys.mjs:1119:40\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:217:12\ntimedFetch/<@resource://services-common/kinto-http-client.sys.mjs:569:12\ntimedFetch@resource://services-common/kinto-http-client.sys.mjs:544:12\nrequest@resource://services-common/kinto-http-client.sys.mjs:634:33\nexecute@resource://services-common/kinto-http-client.sys.mjs:2643:36\ngetData@resource://services-common/kinto-http-client.sys.mjs:1119:40\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:266:15\nfetch@resource://services-settings/Utils.sys.mjs:217:12\ntimedFetch/<@resource://services-common/kinto-http-client.sys.mjs:569:12\ntimedFetch@resource://services-common/kinto-http-client.sys.mjs:544:12\nrequest@resource://services-common/kinto-http-client.sys.mjs:634:33\nexecute@resource://services-common/kinto-http-client.sys.mjs:2643:36\ngetData@resource://services-common/kinto-http-client.sys.mjs:1119:40\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:133:11\nfetch/<@resource://services-settings/Utils.sys.mjs:266:15\nfetch@resource://services-settings/Utils.sys.mjs:217:12\ntimedFetch/<@resource://services-common/kinto-http-client.sys.mjs:569:12\ntimedFetch@resource://services-common/kinto-http-client.sys.mjs:544:12\nrequest@resource://services-common/kinto-http-client.sys.mjs:634:33\nexecute@resource://services-common/kinto-http-client.sys.mjs:2643:36\ngetData@resource://services-common/kinto-http-client.sys.mjs:1119:40\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:133:11|fetch/<@resource://services-settings/Utils.sys.mjs:266:15|fetch@resource://services-settings/Utils.sys.mjs:217:12|timedFetch/<@resource://services-common/kinto-http-client.sys.mjs:569:12|timedFetch@resource://services-common/kinto-http-client.sys.mjs:544:12|request@resource://services-common/kinto-http-client.sys.mjs:634:33|execute@resource://services-common/kinto-http-client.sys.mjs:2643:36|getData@resource://services-common/kinto-http-client.sys.mjs:1119:40|maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54|
+  - prototype Object
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 450))
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/cookie-banner-rules-list getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":503,"stack":""}] Barrier: profile-before-change
+1723453944547	geckodriver	INFO	Listening on 127.0.0.1:54563
+1723453947130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54569" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofileL38kVT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1723453958590	Marionette	INFO	Marionette enabled
+1723453966194	Marionette	INFO	Listening on port 54594
+WebDriver BiDi listening on ws://127.0.0.1:54567
+Read port: 54595
+Read port: 54595
+Read port: 54595
+Read port: 54595
+Read port: 54595
+1723453973103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: CompositorBridgeChild re[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdownceives IP
+C close with reason=AbnormalShutdown
+[Parent 8208, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:350
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+17234541591723454159675	addons.xpi	ERROR	System addon update list er11723454163758	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.opconsole.warn: WindowsJumpLists: "Failed to fetch favicon for " "httpconsole.error: "buildList failed: " ({})
+1723455039741	Marionette	INFO	Stopped listening on port 54597
+Dynamically enable window occlusion 1
+
+/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:1723454503695	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://bankapp.credence.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bankapp.credence.in."
+1723454539353	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/login.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/" ({})
+1723454630143	Marionette	INFO	Stopped listening on port 54594
+Dynamically enable window occlusion 1
+4566890	Marionette	INFO	Stopped listening on port 54596
+Dynamically enable window occlusion 1
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/search-user?username=Tushar" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/userManagement.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/dashboard.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/login.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://bankapp.credence.in/" ({})
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 450))
+1723454690032	geckodriver	INFO	Listening on 127.0.0.1:54747
+1723454693680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54748" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofilertugh9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1723454713604	Marionette	INFO	Marionette enabled
+1723454718769	Marionette	INFO	Listening on port 54769
+WebDriver BiDi listening on ws://127.0.0.1:54750
+Read port: 54770
+Read port: 54770
+Read port: 54770
+Read port: 54770
+Read port: 54770
+Read port: 54770
+1723454729516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[Parent 10012, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:350[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: Killinng GPU process due to IPC reply timeout[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown[[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown[[Parent 10012, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:350[GFX1-]: CompopositorBrieChild receives IPC close with reason=AbnormalShutdownn1723454849926	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+171723454897300	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33coconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://bankapp.credence.in."console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bankapp.credence.in."
+171723454920439	Marionette	INFO	Stopped listening on port 54769
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 133
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":133,"columnNumber":11,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caconsole.warn: services.settings: main/search-config-overrides sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/search-config-v2 sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+imedFetch","sourceId":474,"lineNumber":544,"columnNumber":12,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-common/kinto-http-client.sys.mjs","name":"request","sourceId":474,"lineNumber":634,"columnNumber":33,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-common/kinto-http-client.sys.mjs","name":"execute","sourceId":474,"lineNumber":2643,"columnNumber":36,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-common/kinto-http-client.sys.mjs","name":"getData","sourceId":474,"lineNumber":1119,"columnNumber":40,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"maybeSync","sourceId":22,"lineNumber":712,"columnNumber":54,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54\n","nativeSavedFrame":{}},"formattedStack":"getData@resource://services-common/kinto-http-client.sys.mjs:1119:40\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54\n","nativeSavedFrame":{}},"formattedStack":"execute@resource://services-common/kinto-http-client.sys.mjs:2643:36\ngetData@resource://services-common/kinto-http-client.sys.mjs:1119:40\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54\n","nativeSavedFrame":{}},"formattedStack":"request@resource://services-common/kinto-http-client.sys.mjs:634:33\nexecute@resource://services-common/kinto-http-client.sys.mjs:2643:36\ngetData@resource://services-common/kinto-http-client.sys.mjs:1119:40\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54\n","nativeSavedFrame":{}},"formattedStack":"timedFetch@resource://services-common/kinto-http-client.sys.mjs:544:12\nrequest@resource://services-common/kinto-http-client.sys.mjs:634:33\nexecute@resource://services-common/kinto-http-client.sys.mjs:2643:36\ngetData@resource://services-common/kinto-http-client.sys.mjs:1119:40\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54\n","nativeSavedFrame":{}},"formattedStack":"timedFetch/<@resource://services-common/kinto-http-client.sys.mjs:569:12\ntimedFetch@resource://services-common/kinto-http-client.sys.mjs:544:12\nrequest@resource://services-common/kinto-http-client.sys.mjs:634:33\nexecute@resource://services-common/kinto-http-client.sys.mjs:2643:36\ngetData@resource://services-common/kinto-http-client.sys.mjs:1119:40\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:217:12\ntimedFetch/<@resource://services-common/kinto-http-client.sys.mjs:569:12\ntimedFetch@resource://services-common/kinto-http-client.sys.mjs:544:12\nrequest@resource://services-common/kinto-http-client.sys.mjs:634:33\nexecute@resource://services-common/kinto-http-client.sys.mjs:2643:36\ngetData@resource://services-common/kinto-http-client.sys.mjs:1119:40\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:266:15\nfetch@resource://services-settings/Utils.sys.mjs:217:12\ntimedFetch/<@resource://services-common/kinto-http-client.sys.mjs:569:12\ntimedFetch@resource://services-common/kinto-http-client.sys.mjs:544:12\nrequest@resource://services-common/kinto-http-client.sys.mjs:634:33\nexecute@resource://services-common/kinto-http-client.sys.mjs:2643:36\ngetData@resource://services-common/kinto-http-client.sys.mjs:1119:40\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:133:11\nfetch/<@resource://services-settings/Utils.sys.mjs:266:15\nfetch@resource://services-settings/Utils.sys.mjs:217:12\ntimedFetch/<@resource://services-common/kinto-http-client.sys.mjs:569:12\ntimedFetch@resource://services-common/kinto-http-client.sys.mjs:544:12\nrequest@resource://services-common/kinto-http-client.sys.mjs:634:33\nexecute@resource://services-common/kinto-http-client.sys.mjs:2643:36\ngetData@resource://services-common/kinto-http-client.sys.mjs:1119:40\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:133:11|fetch/<@resource://services-settings/Utils.sys.mjs:266:15|fetch@resource://services-settings/Utils.sys.mjs:217:12|timedFetch/<@resource://services-common/kinto-http-client.sys.mjs:569:12|timedFetch@resource://services-common/kinto-http-client.sys.mjs:544:12|request@resource://services-common/kinto-http-client.sys.mjs:634:33|execute@resource://services-common/kinto-http-client.sys.mjs:2643:36|getData@resource://services-common/kinto-http-client.sys.mjs:1119:40|maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:712:54|
+  - prototype Object
+console.warn: services.settings: main/search-config-overrides-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/search-config-v2 sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.error: ({details:{id:"49db3966-ee3d-979b-5014-4011f6d5e79b", last_modified:1709217485713, bucket:"main", collection:"search-config-overrides", host:"firefox.settings.services.mozilla.com"}})
