@@ -1,1 +1,1 @@
-pytest -v  -n=3 --html=HTMLReports/myhtmlreport_headless.html
+pytest -v  -n=3 --html=HTMLReport/myreport_firefox.html  --alluredir="AllureReport" --browser firefox
